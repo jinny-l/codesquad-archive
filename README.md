@@ -34,13 +34,13 @@
 ### Repository
 - [Spring Cafe Mission Repository](https://github.com/jinny-l/be-java-cafe-max)
 
-| 미션                | 기간                         | PR                                                                        | 회고                                                                                                                                                                  |
-|:------------------|:---------------------------|:--------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 스프링 카페 미션 - 1~2단계 | `23-03-27 ~ 23-03-31` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/30)  |                                                                                                                                                                     |
-| 스프링 카페 미션 - 3단계   | `23-04-03 ~ 23-04-07` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/90)  | [[코드스쿼드] Max 4~5주차 회고 - Spring 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-45%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)          |
-| 스프링 카페 미션 - 4~5단계 | `23-04-10 ~ 23-04-14` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/146) |                                                                                                                                                                     |
-| 스프링 카페 미션 - 6~7단계 | `23-04-17 ~ 23-04-21` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/200) |                                                                                                                                                                     |
-| 스프링 카페 미션 - 8단계   | `23-04-24 ~ 23-04-28` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/235) | [[코드스쿼드] Max 6~8주차 회고 - Spring 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-68%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-uq5zg8dm) |
+| 미션            | 기간                         | PR                                                                        | 회고                                                                                                                                                                  |
+|:--------------|:---------------------------|:--------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 카페 미션 - 1~2단계 | `23-03-27 ~ 23-03-31` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/30)  |                                                                                                                                                                     |
+| 카페 미션 - 3단계   | `23-04-03 ~ 23-04-07` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/90)  | [[코드스쿼드] Max 4~5주차 회고 - Spring 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-45%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)          |
+| 카페 미션 - 4~5단계 | `23-04-10 ~ 23-04-14` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/146) |                                                                                                                                                                     |
+| 카페 미션 - 6~7단계 | `23-04-17 ~ 23-04-21` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/200) |                                                                                                                                                                     |
+| 카페 미션 - 8단계   | `23-04-24 ~ 23-04-28` [5d] | [PR](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/235) | [[코드스쿼드] Max 6~8주차 회고 - Spring 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-68%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-uq5zg8dm) |
 
 ### Learning Keywords
 `Spring` `Spring Boot` `gradle` `HTTP Method` `Template Engine` `H2` `ThtmeLeaf`  
@@ -58,7 +58,7 @@
 
 ## 🌎 5월 - Web Server 미션
 > - 요약: Java로 Web Server 구현
-> - 기간: `23-03-27 ~ 23-04-28`
+> - 기간: `23-05-08 ~ 23-06-02`
 
 ### Repository
 - [Web Server Mission Repository](https://github.com/jinny-l/be-java-was-max/tree/jinny-l)
