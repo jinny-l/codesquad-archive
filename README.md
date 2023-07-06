@@ -85,13 +85,15 @@
 > - 기간: `2023-06-19 ~ 2023-06-30`
 
 ### Repository
+- [Kiosk Team Project Repository](https://github.com/codesquad-gwanaksan/kiosk-max)
+
 | 미션                | 기간                         | 회고   |
 |:------------------|:---------------------------|:-----|
 | Kiosk - Sprint #1 | `23-06-19 ~ 23-06-23` [5d] |      |
-| Kiosk - Sprint #2 | `23-06-26 ~ 23-06-30` [5d] | []() |
+| Kiosk - Sprint #2 | `23-06-26 ~ 23-06-30` [5d] | [[코드스쿼드] Max 16~17주차 - Kiosk 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-kiosk-team-project) |
 
 ### Learning Keywords
-`CI/CD` `Github Actions` `AWS CodeDeploy` `AWS S3` `AWS RDS` `NGINX` `Lombok` `CORS`
+`CI/CD` `Github Actions` `AWS CodeDeploy` `AWS S3` `AWS RDS` `NGINX` `Lombok` `CORS` `Rest Controller`
 
 ### Blogging
 
