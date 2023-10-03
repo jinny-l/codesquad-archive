@@ -75,45 +75,49 @@
 `Query String` `MIME` `Cookie` `Session` `HTTP Method` `HTTP Request` `HTTP Response` `HTTP Status Code`  
 
 ### Blogging
-- 서블릿
 - [웹서버와 WAS란?](https://velog.io/@jinny-l/%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-WAS%EB%9E%80)
 
 <br/>
 
-## 🧾 6월 - 팀 프로젝트
+## 🧾 6월 - 팀 프로젝트1: KIOSK
 > - 요약: "카페 키오스크"를 구현하는 팀 프로젝트
 > - 기간: `2023-06-19 ~ 2023-06-30`
 
 ### Repository
 - [Kiosk Team Project Repository](https://github.com/codesquad-gwanaksan/kiosk-max)
 
-| 미션                | 기간                         | 회고   |
-|:------------------|:---------------------------|:-----|
-| Kiosk - Sprint #1 | `23-06-19 ~ 23-06-23` [5d] |      |
+| 미션                | 기간                         | 회고                                                                                                         |
+|:------------------|:---------------------------|:-----------------------------------------------------------------------------------------------------------|
+| Kiosk - Sprint #1 | `23-06-19 ~ 23-06-23` [5d] |                                                                                                            |
 | Kiosk - Sprint #2 | `23-06-26 ~ 23-06-30` [5d] | [[코드스쿼드] Max 16~17주차 - Kiosk 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-kiosk-team-project) |
 
 ### Learning Keywords
-`CI/CD` `Github Actions` `AWS CodeDeploy` `AWS S3` `AWS RDS` `NGINX` `Lombok` `CORS` `Rest Controller`
+`CI/CD` `Github Actions` `AWS CodeDeploy` `AWS S3` `AWS RDS` `NGINX` `Lombok` `CORS` `Rest Controller` `jdbc` `MySQL`
 
 ### Blogging
+- [gradlew permission denied 이슈](https://velog.io/@jinny-l/gradlew-permission-denied-issue)
 
 <br/>
 
-## 7월
-> - 요약:
-> - 기간:
+## ☑️ 7월 - 팀 프로젝트2: TODO App
+> - 요약: 칸반 보드 형태의 "To Do List를 관리하는 프로그램"을 구현하는 팀 프로젝트
+> - 기간: `23-07-10 ~ 23-07-21`
 
 ### Repository
-| 미션   | 기간      | 회고   |
-|:-----|:--------|:-----|
-| []() | `` [5d] | []() |
-| []() | `` [5d] | []() |
-| []() | `` [5d] | []() |
+- [Todo App Team Project Repository](https://github.com/codesuqad-team3-to-do-list/todo-max)
+
+| 미션       | 기간                         | 회고                                                                                                               |
+|:---------|:---------------------------|:-----------------------------------------------------------------------------------------------------------------|
+| TODO App | `23-07-10 ~ 23-07-21` [2w] | [[코드스쿼드] Max 19~20주차 - ToDo App 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-ToDo-App-team-project) |
+
 
 ### Learning Keywords
-`` `` `` `` `` `` `` `` `` ``
+`JWT` `Jasyspt` `Slicing` `Redis` `Spring Filter` `Spring Scheduler` `Cron`
 
 ### Blogging
+- [[AWS] S3 정적 호스팅 페이지 새로고침 시 404 NoSuchKey 에러가 발생하는 이슈](https://velog.io/@jinny-l/AWS-S3-web-hosting-reload-404-NoSuchKey-error)
+- [[JWT] SignatureException 에러](https://velog.io/@jinny-l/JWT-SignatureException-Error)
+- [[Spring] filter 기능 구현 후 CORS 에러가 발생하는 이슈](https://velog.io/@jinny-l/Spring-filter-CORS-Error)
 
 <br/>
 
