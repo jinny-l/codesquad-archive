@@ -74,15 +74,15 @@
 ### BLOG POSTING
 > 8주간 총 13개 포스트, 주 평균 2개 작성
 
-- [[코드스쿼드] Max 2주차 - 로또 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-2%EC%A3%BC%EC%B0%A8-%EB%A1%9C%EB%98%90-%EB%AF%B8%EC%85%98)
-- [[오브젝트] 유연한 설계 - Ch.1 객체, 설계](https://velog.io/@jinny-l/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9C%A0%EC%97%B0%ED%95%9C-%EC%84%A4%EA%B3%84-Ch.1-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84)
-- [Template Engine(템플릿 엔진), Thymeleaf(타임리프)란?](https://velog.io/@jinny-l/Template-Engine%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%97%94%EC%A7%84-Thymeleaf%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84%EB%9E%80)
-- [Thymeleaf(타임리프) 작동 원리 - 경로 맨 앞에 "/"가 언제 붙어야 할까?](https://velog.io/@jinny-l/Thymeleaf%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC-%EA%B2%BD%EB%A1%9C-%EB%A7%A8-%EC%95%9E%EC%97%90-%EA%B0%80-%EC%96%B8%EC%A0%9C-%EB%B6%99%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
-- [H2 DB의 3가지 모드와 사용법 - Server Mode, Embedded Mode, In-Memory Mode](https://velog.io/@jinny-l/H2-DB%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%AA%A8%EB%93%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95-Server-Mode-Embedded-Mode-In-Memory-Mode)
-- [[AWS] EC2 Spring Boot 서버 배포](https://velog.io/@jinny-l/AWS-EC2-Spring-Boot-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
-- [[Spring] MySQL 연동 - Production, Test 환경](https://velog.io/@jinny-l/Spring-MySQL-%EC%97%B0%EB%8F%99-Production-Test-%ED%99%98%EA%B2%BD)
-- [[Spring] DTO는 어디서, 어떻게 변환해야 할까?](https://velog.io/@jinny-l/Spring-DTO%EB%8A%94-%EC%96%B4%EB%94%94%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%ED%99%98%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
-- [웹서버와 WAS란?](https://velog.io/@jinny-l/%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-WAS%EB%9E%80)
+- 23-03-17 - [[코드스쿼드] Max 2주차 - 로또 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-2%EC%A3%BC%EC%B0%A8-%EB%A1%9C%EB%98%90-%EB%AF%B8%EC%85%98)
+- 23-03-20 - [[오브젝트] 유연한 설계 - Ch.1 객체, 설계](https://velog.io/@jinny-l/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9C%A0%EC%97%B0%ED%95%9C-%EC%84%A4%EA%B3%84-Ch.1-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84)
+- 23-03-28 - [Template Engine(템플릿 엔진), Thymeleaf(타임리프)란?](https://velog.io/@jinny-l/Template-Engine%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%97%94%EC%A7%84-Thymeleaf%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84%EB%9E%80)
+- 23-03-31 - [Thymeleaf(타임리프) 작동 원리 - 경로 맨 앞에 "/"가 언제 붙어야 할까?](https://velog.io/@jinny-l/Thymeleaf%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC-%EA%B2%BD%EB%A1%9C-%EB%A7%A8-%EC%95%9E%EC%97%90-%EA%B0%80-%EC%96%B8%EC%A0%9C-%EB%B6%99%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
+- 23-04-03 - [H2 DB의 3가지 모드와 사용법 - Server Mode, Embedded Mode, In-Memory Mode](https://velog.io/@jinny-l/H2-DB%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%AA%A8%EB%93%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95-Server-Mode-Embedded-Mode-In-Memory-Mode)
+- 23-04-05 - [[AWS] EC2 Spring Boot 서버 배포](https://velog.io/@jinny-l/AWS-EC2-Spring-Boot-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
+- 23-04-20 - [[Spring] MySQL 연동 - Production, Test 환경](https://velog.io/@jinny-l/Spring-MySQL-%EC%97%B0%EB%8F%99-Production-Test-%ED%99%98%EA%B2%BD)
+- 23-05-02 - [[Spring] DTO는 어디서, 어떻게 변환해야 할까?](https://velog.io/@jinny-l/Spring-DTO%EB%8A%94-%EC%96%B4%EB%94%94%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%ED%99%98%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
+- 23-06-19 - [웹서버와 WAS란?](https://velog.io/@jinny-l/%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-WAS%EB%9E%80)
 
 <br/>
 
