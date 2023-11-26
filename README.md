@@ -7,16 +7,16 @@
 ```
 
 ## 🔖 목차
-* [💻 CS16(1월~2월)](#-cs16--1월--2월-)
+* [💻 CS16(1월~2월)](#-cs161월2월)
   * [MISSION](#mission)
   * [BLOG POSTING](#blog-posting)
-* [☕️ 웹백엔드 Java 클래스(3월~6월)](#-웹백엔드-java-클래스--3월--6월-)
+* [☕️ 웹백엔드 Java 클래스(3월~6월)](#%EF%B8%8F-웹백엔드-java-클래스3월6월)
   * [MISSION](#mission-1)
   * [BLOG POSTING](#blog-posting-1)
-* [🤝 팀 프로젝트(6월~10월)](#-팀-프로젝트--6월--10월-)
+* [🤝 팀 프로젝트(6월~10월)](#-팀-프로젝트6월10월)
   * [PROJECT](#project)
   * [BLOG POSTING](#blog-posting-2)
-* [✏️ 스터디](#-스터디)
+* [✏️ 스터디](#%EF%B8%8F-스터디)
 
 <br/>
 
