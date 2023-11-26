@@ -3,7 +3,7 @@
 
 ```
 🗓️ 전체 기간: 23-01-02 ~ 23-11-03(10개월)
-📌 과정 순서: CS16(2개월) → 웹백엔드 Java 클래스(3개월) → 그룹 프로젝트(5개월)
+📌 과정 순서: CS16(2개월) → 웹백엔드 Java 클래스(3개월) → 팀 프로젝트(5개월)
 ```
 
 ## 🔖 목차
@@ -55,7 +55,7 @@
 
 ## ☕️ 웹백엔드 Java 클래스(3월~6월)
 ```
-🗓️ 학습 기간: 23-03-06 ~ 23-06-02(3개월)
+🗓️ 학습 기간: 23-03-06 ~ 23-06-16(3개월)
 📖 학습 내용: 자바 프로그래밍, OOP, 클린 코딩, 스프링 부트 등 다양한 웹백엔드 기반 기술을 학습하는 과정
 ```
 
@@ -67,7 +67,7 @@
 | [💵 로또 게임(선택 미션)](https://github.com/jinny-l/be-java-lotto-max)             | `23-03-13 ~ 23-03-17` [5d] | [[코드스쿼드] Max 2주차 회고 - 로또 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [📋 JS로 게시판 구현하기(선택 미션)](https://github.com/jinny-l/be-javascript-cafe-max) | `23-03-20 ~ 23-03-24` [5d] | [[코드스쿼드] Max 3주차 회고 - JS 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [🌱 Spring으로 게시판 구현하기](https://github.com/jinny-l/be-java-cafe-max)         | `23-03-27 ~ 23-04-28` [5w] | [[코드스쿼드] Max 4~5주차 회고 - Spring 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-45%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) <br/> [[코드스쿼드] Max 6~8주차 회고 - Spring 카페 미션](https://velog.io/@jinny-l/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C-Max-68%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-uq5zg8dm) | [[PR #1]](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/30) [[PR #2]](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/90) [[PR #3]](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/146) [[PR #4]](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/200) [[PR #5]](https://github.com/codesquad-members-2023/be-java-cafe-max/pull/235) |
-| [🌐 WAS 만들기](https://github.com/jinny-l/be-java-was-max/tree/jinny-l)       | `23-05-08 ~ 23-06-02` [4w] |                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [🌐 WAS 만들기](https://github.com/jinny-l/be-java-was-max/tree/jinny-l)       | `23-05-08 ~ 23-06-16` [6w] |                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
 
@@ -86,82 +86,39 @@
 
 <br/>
 
-## 🥕 9월 - 팀프로젝트4: SecondHand
-> - 요약: 당근 마켓을 모티브로 한 "중고 물품 거래 플랫폼"을 구현하는 팀 프로젝트
-> - 기간: `2023-08-21 ~ 2023-10-06` [6w]
+## 🤝 팀 프로젝트(6월~10월)
+```
+🗓️ 학습 기간: 23-06-19 ~ 23-11-03(6개월)
+📖 학습 내용: Spring 프레임워크를 활용하여 
+```
 
-### Repository
-- [SecondHand Team Project Repository](https://github.com/masters2023-project-team05-second-hand/second-hand-max-be-b)
+### PROJECT
+> 💬 프로젝트 설명  
+> - ☕️ 카페 키오스크 프로젝트: "카페 키오스크"를 구현하는 팀 프로젝트  
+> - ✔️ Todo 앱 프로젝트: 칸반 보드 형태의 "To Do List를 관리하는 프로그램"을 구현하는 팀 프로젝트  
+> - 📈 이슈 트래커 프로젝트: Github Issue 페이지를 모티브로 한 "Issue를 관리하는 프로그램"을 구현하는 팀 프로젝트  
+> - 🥕 중고거래 플랫폼 프로젝트: 당근 마켓을 모티브로 한 "중고 물품 거래 플랫폼"을 구현하는 팀 프로젝트
 
-| 미션         | 기간                             | 회고   |
-|:-----------|:-------------------------------|:-----|
-| SecondHand | `2023-08-21 ~ 2023-10-06` [6w] | []() |
+| 프로젝트                                                                                          | 기간                             | 회고/PR                                                                                                                                                                                                                                                                                                                       |
+|:----------------------------------------------------------------------------------------------|:-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [☕️ 카페 키오스크](https://github.com/codesquad-gwanaksan/kiosk-max)                                | `2023-06-19 ~ 2023-06-30` [2w] | [[코드스쿼드] Max 16~17주차 - Kiosk 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-kiosk-team-project)                                                                                                                                                                                                                  |
+| [✔️ Todo 앱](https://github.com/codesuqad-team3-to-do-list/todo-max)                           | `23-07-10 ~ 23-07-21` [2w]     | [[코드스쿼드] Max 19~20주차 - ToDo App 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-ToDo-App-team-project)                                                                                                                                                                                                            |
+ | [📈 이슈 트래커](https://github.com/eojjeogo-jeojjeogo/issue-tracker-max)                          | `2023-07-24 ~ 2023-08-18` [4w] | [[PR #1]](https://github.com/codesquad-members-2023/issue-tracker-max/pull/18) [[PR #2]](https://github.com/codesquad-members-2023/issue-tracker-max/pull/33) [[PR #3]](https://github.com/codesquad-members-2023/issue-tracker-max/pull/54) [[PR #4]](https://github.com/codesquad-members-2023/issue-tracker-max/pull/75) |
+| [🥕 중고거래 플랫폼](https://github.com/masters2023-project-team05-second-hand/second-hand-max-be-b) | `2023-08-21 ~ 2023-10-06` [6w] |                                                                                                                                                                                                                                                                                                                             |
+| [🏍️ 배민 클론 코딩(프로모션)](https://github.com/woowa-coupons/woowa-coupons)                          | `2023-10-09 ~ 23-11-03` [4w]   |                                                                                                                                                                                                                                                                                                                             |
 
-### Learning Keywords
-`JPA` `Web Socket` `Stomp` `Facade` `REST Assured` `Test Continer`
+### BLOG POSTING
+> 20주간 총 11개 포스트, 2주 평균 1개 작성
 
-### Blogging
-- []()
-
-<br/>
-
-## 📈 8월 - 팀 프로젝트3: Issue Tracker
-> - 요약: Github Issue 페이지를 모티브로 한 "Issue를 관리하는 프로그램"을 구현하는 팀 프로젝트
-> - 기간: `2023-07-24 ~ 2023-08-18` [4w]
-
-### Repository
-- [Issue Tracker Team Project Repository](https://github.com/eojjeogo-jeojjeogo/issue-tracker-max)
-
-| 미션            | 기간                             | PR                                                                                                                                                                                                                                                                                                                  |
-|:--------------|:-------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Issue Tracker | `2023-07-24 ~ 2023-08-18` [4w] | [PR-#1](https://github.com/codesquad-members-2023/issue-tracker-max/pull/18) [PR-#2](https://github.com/codesquad-members-2023/issue-tracker-max/pull/33) [PR-#3](https://github.com/codesquad-members-2023/issue-tracker-max/pull/54) [PR-#4](https://github.com/codesquad-members-2023/issue-tracker-max/pull/75) |
-
-### Learning Keywords
-`OAuth` `Docker Compose` `Spring File Upload` `Multipart File`
-
-### Blogging
-
-<br/>
-
-## ✔️ 7월 - 팀 프로젝트2: TODO App
-> - 요약: 칸반 보드 형태의 "To Do List를 관리하는 프로그램"을 구현하는 팀 프로젝트
-> - 기간: `23-07-10 ~ 23-07-21`
-
-### Repository
-- [Todo App Team Project Repository](https://github.com/codesuqad-team3-to-do-list/todo-max)
-
-| 미션       | 기간                         | 회고                                                                                                               |
-|:---------|:---------------------------|:-----------------------------------------------------------------------------------------------------------------|
-| TODO App | `23-07-10 ~ 23-07-21` [2w] | [[코드스쿼드] Max 19~20주차 - ToDo App 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-ToDo-App-team-project) |
-
-
-### Learning Keywords
-`JWT` `Jasyspt` `Slicing` `Redis` `Spring Filter` `Spring Scheduler` `Cron`
-
-### Blogging
-- [[AWS] S3 정적 호스팅 페이지 새로고침 시 404 NoSuchKey 에러가 발생하는 이슈](https://velog.io/@jinny-l/AWS-S3-web-hosting-reload-404-NoSuchKey-error)
-- [[JWT] SignatureException 에러](https://velog.io/@jinny-l/JWT-SignatureException-Error)
-- [[Spring] filter 기능 구현 후 CORS 에러가 발생하는 이슈](https://velog.io/@jinny-l/Spring-filter-CORS-Error)
-
-<br/>
-
-## 🧾 6월 - 팀 프로젝트1: KIOSK
-> - 요약: "카페 키오스크"를 구현하는 팀 프로젝트
-> - 기간: `2023-06-19 ~ 2023-06-30`
-
-### Repository
-- [Kiosk Team Project Repository](https://github.com/codesquad-gwanaksan/kiosk-max)
-
-| 미션                | 기간                         | 회고                                                                                                         |
-|:------------------|:---------------------------|:-----------------------------------------------------------------------------------------------------------|
-| Kiosk - Sprint #1 | `23-06-19 ~ 23-06-23` [5d] |                                                                                                            |
-| Kiosk - Sprint #2 | `23-06-26 ~ 23-06-30` [5d] | [[코드스쿼드] Max 16~17주차 - Kiosk 팀 프로젝트](https://velog.io/@jinny-l/codesquad-retrospective-kiosk-team-project) |
-
-### Learning Keywords
-`CI/CD` `Github Actions` `AWS CodeDeploy` `AWS S3` `AWS RDS` `NGINX` `Lombok` `CORS` `Rest Controller` `jdbc` `MySQL`
-
-### Blogging
-- [gradlew permission denied 이슈](https://velog.io/@jinny-l/gradlew-permission-denied-issue)
+- 23-07-06 - [gradlew permission denied 이슈](https://velog.io/@jinny-l/gradlew-permission-denied-issue)
+- 23-07-22 - [[AWS] S3 정적 호스팅 페이지 새로고침 시 404 NoSuchKey 에러가 발생하는 이슈](https://velog.io/@jinny-l/AWS-S3-web-hosting-reload-404-NoSuchKey-error)
+- 23-07-22 - [[JWT] SignatureException 에러](https://velog.io/@jinny-l/JWT-SignatureException-Error)
+- 23-07-22 - [[Spring] filter 기능 구현 후 CORS 에러가 발생하는 이슈](https://velog.io/@jinny-l/Spring-filter-CORS-Error)
+- 23-09-03 - [[Spring] Jasypt로 yml 파일 암호화 및 암호화 키를 환경변수로 저장하는 방법](https://velog.io/@jinny-l/spring-jasypt-encrypt-yml-and-store-encryption-key-as-environment-variable)
+- 23-10-02 - [[Spring] DTO 관리 - Inner Class](https://velog.io/@jinny-l/spring-dto-management-inner-class)
+- 23-10-09 - [[React + Nginx + Spring] WS Handshake 오류: "Handshake failed due to invalid Upgrade header: null"](https://velog.io/@jinny-l/WS-Handshake-Error-Handshake-failed-due-to-invalid-Upgrade-header-null)
+- 23-10-09 - [[Nginx + Spring] 413 Request Entity Too Large 오류](https://velog.io/@jinny-l/Nginx-Spring-413-Request-Entity-Too-Large-Error)
+- 23-10-23 - [[Java] Java 17을 사용해야 하는 이유와 Java 17 변경점](https://velog.io/@jinny-l/Java-17)
 
 <br/>
 
@@ -178,3 +135,19 @@
 ### Learning Keywords
 `Web Server` `Web Application Server` `Servlet` `DispatcherServlet` `Reflection` `logger`  
 `Query String` `MIME` `Cookie` `Session` `HTTP Method` `HTTP Request` `HTTP Response` `HTTP Status Code`
+
+## 🧾 6월 - 팀 프로젝트1: KIOSK
+### Learning Keywords
+`CI/CD` `Github Actions` `AWS CodeDeploy` `AWS S3` `AWS RDS` `NGINX` `Lombok` `CORS` `Rest Controller` `jdbc` `MySQL`
+
+## ✔️ 7월 - 팀 프로젝트2: TODO App
+### Learning Keywords
+`JWT` `Jasyspt` `Slicing` `Redis` `Spring Filter` `Spring Scheduler` `Cron`
+
+## 📈 8월 - 팀 프로젝트3: Issue Tracker
+### Learning Keywords
+`OAuth` `Docker Compose` `Spring File Upload` `Multipart File`
+
+## 🥕 9월 - 팀프로젝트4: SecondHand
+### Learning Keywords
+`JPA` `Web Socket` `Stomp` `Facade` `REST Assured` `Test Continer`
