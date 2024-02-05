@@ -117,7 +117,7 @@
 | [🏍️ 배민 클론 코딩](https://github.com/woowa-coupons/woowa-coupons)                                | `23-10-09 ~ 23-11-03` [4w] |                                                                                                                                                                                                                                                                                                                             |
 
 ### BLOG POSTING
-> 20주간 총 11개 포스트, 2주 평균 1개 작성
+> 20주간 총 13개 포스트, 2주 평균 1개 작성
 
 - 23-07-06 - [gradlew permission denied 이슈](https://velog.io/@jinny-l/gradlew-permission-denied-issue)
 - 23-07-22 - [[AWS] S3 정적 호스팅 페이지 새로고침 시 404 NoSuchKey 에러가 발생하는 이슈](https://velog.io/@jinny-l/AWS-S3-web-hosting-reload-404-NoSuchKey-error)
@@ -128,6 +128,9 @@
 - 23-10-09 - [[React + Nginx + Spring] WS Handshake 오류: "Handshake failed due to invalid Upgrade header: null"](https://velog.io/@jinny-l/WS-Handshake-Error-Handshake-failed-due-to-invalid-Upgrade-header-null)
 - 23-10-09 - [[Nginx + Spring] 413 Request Entity Too Large 오류](https://velog.io/@jinny-l/Nginx-Spring-413-Request-Entity-Too-Large-Error)
 - 23-10-23 - [[Java] Java 17을 사용해야 하는 이유와 Java 17 변경점](https://velog.io/@jinny-l/Java-17)
+- 23-12-04 - [[Java] 동시성 테스트](https://velog.io/@jinny-l/Java-Concurrency-Test)
+- 23-12-05 - [[Spring + Nginx + SSL] Invalid character found in method name, SSL handshake failed 오류](https://velog.io/@jinny-l/Spring-Nginx-SSL-Invalid-character-found-in-method-name-error)
+- 23-12-08 - [[Spring/JPA] Unable to locate class 에러](https://velog.io/@jinny-l/SpringJPA-Unable-to-locate-class-error)
 
 <br/>
 
