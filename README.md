@@ -137,7 +137,7 @@
 ## ✏️ 스터디
 | 주제                                                                          | 기간                         | 활동 내용      | 책                                                                    |
 |:----------------------------------------------------------------------------|:---------------------------|------------|----------------------------------------------------------------------|
-| [🔢 알고리즘](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study)       | `23-02-20 ~ 23-09-08` [6m] | 알고리즘 문제 풀이 | -                                                                    |
-| [🔘 객체지향](https://github.com/CodeSquad-2023-BE-Study/Object-Study)          | `23-03-30 ~ 23-05-04` [1m] | 책 읽고 발표    | 📕[오브젝트](https://www.yes24.com/Product/Goods/74219491)               |
-| [💾 데이터베이스](https://github.com/CodeSquad-2023-BE-Study/DB-Study)            | `23-05-10 ~ 23-08-29` [4m] | 책 읽고 발표    | 📕[데이터베이스 개론](https://product.kyobobook.co.kr/detail/S000001743852)  |
-| [🌎 네트워크](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study) | `23-10-03 ~ ing` [1m]      | 책 읽고 발표    | 📕[후니의 쉽게 쓴 시스코 네트워킹](https://www.yes24.com/Product/Goods/113485068) |
+| [🔢 알고리즘](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study)       | `23-02-20 ~ 23-09-08` [6 month] | 알고리즘 문제 풀이 | -                                                                    |
+| [🔘 객체지향](https://github.com/CodeSquad-2023-BE-Study/Object-Study)          | `23-03-30 ~ 23-05-04` [1 month] | 책 읽고 발표    | 📕[오브젝트](https://www.yes24.com/Product/Goods/74219491)               |
+| [💾 데이터베이스](https://github.com/CodeSquad-2023-BE-Study/DB-Study)            | `23-05-10 ~ 23-08-29` [4 month] | 책 읽고 발표    | 📕[데이터베이스 개론](https://product.kyobobook.co.kr/detail/S000001743852)  |
+| [🌎 네트워크](https://github.com/CodeSquad-2023-BE-Study/Flytrap-Network-Study) | `23-10-03 ~ 23-12-07` [2 month]      | 책 읽고 발표    | 📕[후니의 쉽게 쓴 시스코 네트워킹](https://www.yes24.com/Product/Goods/113485068) |
